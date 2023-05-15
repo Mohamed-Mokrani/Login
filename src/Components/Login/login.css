@@ -29,6 +29,10 @@
   .login-content input {
     border-bottom:1px solid white!important ;
   }
+  .login-content button{
+    border-radius: 50px;
+    background-color: #d073ff;
+  }
 }
 
 .login-content {
