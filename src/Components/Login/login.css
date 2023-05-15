@@ -28,12 +28,16 @@
   }
   .login-content input {
     border-bottom:1px solid white!important ;
+    color: white;
   }
   .login-content button{
     border-radius: 50px;
     background-color: #d073ff;
   }
+  .login-container p:hover {color: #86aeff!important;}
 }
+
+
 
 .login-content {
   display: flex;
